@@ -1,6 +1,6 @@
 title: Security notes
 author: Ethan
-description: Hands-on security write-ups: AI agent safety, hardening, hardware and mobile reverse engineering, and WiFi auditing. Everything here was done against my own systems.
+description: "Hands-on security write-ups: AI agent safety, hardening, hardware and mobile reverse engineering, and WiFi auditing. Everything here was done against my own systems."
 theme: minima
 permalink: /:year/:month/:title/
 plugins:
