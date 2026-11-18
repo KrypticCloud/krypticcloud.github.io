@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Treating my coding agent as an untrusted process: sandboxing Claude Code and scoping my tailnet"
-date: 2026-11-18 17:00:00 -0600
+date: 2026-11-18 08:40:00 -0600
 tags: [ai-security, agents, claude-code, sandboxing, tailscale, zero-trust, blue-team]
 ---
 

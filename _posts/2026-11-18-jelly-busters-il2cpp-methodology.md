@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I approach static analysis of a Unity IL2CPP Android game"
-date: 2026-11-18 15:00:00 -0600
+date: 2026-11-18 08:20:00 -0600
 tags: [reverse-engineering, android, unity, il2cpp, mobile-security, methodology]
 ---
 

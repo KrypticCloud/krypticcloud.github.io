@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unlocking drives from my old home recording system, part 1: what's actually locking them"
-date: 2026-11-18 16:00:00 -0600
+date: 2026-11-18 08:30:00 -0600
 tags: [hardware, reverse-engineering, ata-security, uart, iot, lab-notes]
 ---
 

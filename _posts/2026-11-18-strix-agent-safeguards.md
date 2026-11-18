@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Running an autonomous pentest agent against my own lab, and what stopped it"
-date: 2026-11-18 18:00:00 -0600
+date: 2026-11-18 08:50:00 -0600
 tags: [ai-security, agents, llm, safeguards, owasp-juice-shop, docker]
 ---
 

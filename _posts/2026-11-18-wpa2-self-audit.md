@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auditing my own WPA2 network with a Flipper Zero, Marauder and hashcat"
-date: 2026-11-18 14:00:00 -0600
+date: 2026-11-18 08:10:00 -0600
 tags: [wifi, wpa2, hashcat, flipper-zero, blue-team]
 ---
 
